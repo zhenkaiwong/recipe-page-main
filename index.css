@@ -47,6 +47,10 @@ h1 {
   font-family: YoungSerif;
 }
 
+.recipe-title {
+  color: black;
+}
+
 section {
   color: var(--color-wenge-brown);
 }
